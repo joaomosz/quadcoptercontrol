@@ -1,2 +1,2 @@
-# Controle de Quadcoptero (MATLAB)
-Os programas principais começam com **test_** (exemplo: **test_lqr.m**). Os outros arquivos são funções usadas em alguns dos programas.
+# Quadrotor control (MATLAB)
+Main programs start with **test_** (example: **test_lqr.m**). Other files are functions used in some scripts. Feel free to use them in you academic research!
